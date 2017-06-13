@@ -1,0 +1,60 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+
+}
+#prin_cabecalho #cabecalho #container{
+    background-color:  #4682B4;
+    width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 5px;
+    box-shadow: 2px 2px 3px #2d2d2d
+}
+
+#prin_cabecalho #cabecalho #container button{
+   font-size: 14px;
+    background-color: #fff;
+    text-transform: uppercase;
+    color: #4682B4;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 200px;
+}
+#prin_cabecalho #cabecalho #container button:hover{
+background: #1E90FF;
+color:#fff;
+
+}
+
+#prin_cabecalho #cabecalho #area{
+    width: 1000px;
+    height: 400px;
+    border: 1px solid  #4682B4;
+    margin: auto;
+    margin-top: 10px;
+}
+figcaption{
+    font-size: 14px;
+    color:#990000;
+    font-family: "Open Sans",sans-serif;
+    font-weight: 600;
+}
+#prin_cabecalho #cabecalho #ferramentas img{
+    margin: auto;
+    margin-left: 190px;
+    margin-top: 10px;
+    padding:11px;
+   
+}
+#prin_cabecalho #cabecalho #ferramentas img:hover{
+border:1px solid #1E90FF;
+}
+
+
+
